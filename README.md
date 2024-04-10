@@ -35,7 +35,7 @@ And installing using the **Add .ZIP Library** feature:
 
 Here is an example how this library is useful:
 
-**Defines.h** Header file for *Template function*:
+**`Defines.h`** Header file for *Template function*:
 ```c++
 #ifndef _DEFINES_H_
 #define _DEFINES_H_
@@ -58,7 +58,7 @@ void printType(T &val) {
 # endif /* _DEFINES_H_ */
 ```
 
-**Types_Print.ino** main file:
+**`Types_Print.ino`** main file:
 ```c++
 #include "Defines.h"
 
