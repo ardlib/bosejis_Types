@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For bosejis_Types
+#######################################
+# Class
+#######################################
+
+types	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+#######################################
+# Constants
+#######################################
+
+TYPE_BYTE_ARR	LITERAL1
+TYPE_UINT16		LITERAL1
+TYPE_UINT32		LITERAL1
+TYPE_UINT64		LITERAL1
+TYPE_FLOAT		LITERAL1
+TYPE_DOUBLE		LITERAL1
+TYPE_BYTE		LITERAL1
+TYPE_CHAR		LITERAL1
+TYPE_INT16		LITERAL1
+TYPE_INT32		LITERAL1
+TYPE_BOOL		LITERAL1
+TYPE_CHAR_ARR	LITERAL1
+TYPE_INT64		LITERAL1
+
+
