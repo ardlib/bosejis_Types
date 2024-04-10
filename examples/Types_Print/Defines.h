@@ -37,7 +37,7 @@
 #ifndef _DEFINES_H_
 #define _DEFINES_H_
 
-#include <bosejis_types.h>
+#include <bosejis_Types.h>
 
 template<typename T>
 void printType(T &val) {
