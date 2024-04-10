@@ -1,6 +1,6 @@
 {
   "name": "bosejis_Types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generic Type to Value Conversion Library. This library converts given data types into fixed values. Helps in Creating the Types Switch for C++ Template functions and many other applications.",
   "keywords": "sensors, control, device, smartphone, mobile, app, web, cloud, communication, protocol, iot, m2m, wifi, ble, bluetooth, ethernet, usb, serial, gsm, gprs, 3g, data, esp8266, http",
   "authors": {
